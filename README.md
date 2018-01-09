@@ -1,2 +1,2 @@
-# Python---Game
 Exploration game-project in which I am trying to include all of my ideas with the abilities and knowledge I have so far.
+As for a start, all which is now included are navigation options. You can guide yourself by using simple direction orders, f.e. "N", "north", "Go north". Newest addition is an availablility to explore through using strict location names, f.e. "forest" or "valley", for which you will need to get a little familiar with the overall "map". Also, this version understands an orders in a from of full sentences, f.e. "I would like to go north".
